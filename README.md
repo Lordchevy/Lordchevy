@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1>Hi, I'm Damian! 👋 <br/>
+Aspiring Cybersecurity Analyst | Computer Information Systems Graduate | Hands-On Security Lab Builder
+</h1>
 
-<!--
-**Lordchevy/Lordchevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2>🔐 Cybersecurity Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GoPhish Phishing Awareness Lab**
+  - Simulated phishing campaigns in a controlled environment to understand social engineering techniques and user risk.
+  - Configured email templates, sending profiles, landing pages, and campaign tracking.
+  - Analyzed metrics such as open rates and click-through behavior to support security awareness recommendations.
+  - 👉 (INSERT YOUR REPO LINK)
+
+- **Active Directory Security Lab** *(Add this once you build it — highly recommended)*
+  - Created a Windows Server environment with Active Directory.
+  - Practiced user management, group policies, and authentication security.
+  - Simulated common attack paths to understand defensive strategies.
+
+- **Docker Networking & Security Lab**
+  - Built isolated containers to safely test network scanning tools.
+  - Strengthened understanding of ports, services, and container security.
+
+---
+
+<h2>🧠 Technical Skills</h2>
+
+**Security:**  
+Phishing Analysis • Security Awareness • Threat Simulation • Social Engineering Detection  
+
+**Tools:**  
+GoPhish • Wireshark • Nmap • Linux • Docker • Active Directory  
+
+**Networking:**  
+TCP/IP • Ports • DNS • Network Traffic Analysis  
+
+---
+
+<h2>🎯 Career Objective</h2>
+
+Motivated cybersecurity professional seeking an entry-level **Security Operations Center (SOC) Analyst** role where I can leverage hands-on lab experience, analytical thinking, and a strong foundation in network security to help protect organizational infrastructure.
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+- LinkedIn: (INSERT LINK)
+- Email: damianchevy1203@gmail.com
