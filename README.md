@@ -10,7 +10,7 @@ Aspiring Cybersecurity Analyst |  Hands-On Security Lab Builder
   - Simulated phishing campaigns in a controlled environment to understand social engineering techniques and user risk.
   - Configured email templates, sending profiles, landing pages, and campaign tracking.
   - Analyzed metrics such as open rates and click-through behavior to support security awareness recommendations.
-  - 👉 (INSERT YOUR REPO LINK)
+  - 👉 https://github.com/Lordchevy/GoPhish-Phishing-Lab
 
 - **Active Directory Security Lab** *(Add this once you build it — highly recommended)*
   - Created a Windows Server environment with Active Directory.
