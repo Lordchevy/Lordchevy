@@ -1,6 +1,5 @@
 <h1>Hi, I'm Damian! 👋 <br/>
-Aspiring Cybersecurity Analyst <br/>
-Hands-On Security Lab Builder
+Aspiring Cybersecurity Analyst
 </h1>
 
 ---
