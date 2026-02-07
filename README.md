@@ -13,7 +13,7 @@ Hands-On Security Lab Builder
   - Analyzed metrics such as open rates and click-through behavior to support security awareness recommendations.
   - 👉 https://github.com/Lordchevy/GoPhish-Phishing-Lab
 
-- **Active Directory Security Lab** *(Add this once you build it — highly recommended)*
+- **Active Directory Security Lab** 
   - Created a Windows Server environment with Active Directory.
   - Practiced user management, group policies, and authentication security.
   - Simulated common attack paths to understand defensive strategies.
@@ -45,5 +45,5 @@ Motivated cybersecurity professional seeking an entry-level **Security Operation
 
 <h2>📫 Connect With Me</h2>
 
-- LinkedIn: (INSERT LINK)
+- LinkedIn: www.linkedin.com/in/damian-chevalier-56ba97286
 - Email: damianchevy1203@gmail.com
