@@ -1,5 +1,5 @@
 <h1>Hi, I'm Damian! 👋 <br/>
-Aspiring Cybersecurity Analyst
+Cybersecurity Analyst
 </h1>
 
 ---
@@ -12,10 +12,12 @@ Aspiring Cybersecurity Analyst
   - Analyzed metrics such as open rates and click-through behavior to support security awareness recommendations.
   - 👉 https://github.com/Lordchevy/GoPhish-Phishing-Lab
 
-- **Active Directory Security Lab** 
-  - Created a Windows Server environment with Active Directory.
-  - Practiced user management, group policies, and authentication security.
-  - Simulated common attack paths to understand defensive strategies.
+- **Linux System Health Monitor** 
+  - Developed a Bash-based monitoring tool to track CPU, memory, disk, uptime, and network connectivity on Linux systems.
+  - Implemented automated warning alerts for high CPU and disk utilization thresholds.
+  - Utilized Linux commands such as top, free, df, ping, awk, and grep to gather and analyze system performance data.
+  - Added logging functionality to store monitoring output for troubleshooting and historical analysis.
+  - Demonstrated foundational Linux administration, scripting, and system monitoring skills relevant to IT support and SOC analyst roles.
 
 - **Docker Networking & Security Lab**
   - Built isolated containers to safely test network scanning tools.
