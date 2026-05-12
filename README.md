@@ -18,6 +18,7 @@ Cybersecurity Analyst
   - Utilized Linux commands such as top, free, df, ping, awk, and grep to gather and analyze system performance data.
   - Added logging functionality to store monitoring output for troubleshooting and historical analysis.
   - Demonstrated foundational Linux administration, scripting, and system monitoring skills relevant to IT support and SOC analyst roles.
+  - 👉 https://github.com/Lordchevy/LinuxSystemMonitor
 
 - **Docker Networking & Security Lab**
   - Built isolated containers to safely test network scanning tools.
